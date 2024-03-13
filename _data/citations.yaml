@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: 10.18653/v1/2023.genbench-1.7
+- id: doi:10.18653/v1/2023.genbench-1.7
   title: Robust Generalization Strategies for Morpheme Glossing in an Endangered Language
     Documentation Context
   authors:
@@ -12,7 +12,7 @@
   link: https://doi.org/gtmsc3
   plugin: sources.py
   file: sources.yaml
-- id: 10.18653/v1/2023.sigmorphon-1.20
+- id: doi:10.18653/v1/2023.sigmorphon-1.20
   title: Findings of the SIGMORPHON 2023 Shared Task on Interlinear Glossing
   authors:
   - Michael Ginn
@@ -28,7 +28,7 @@
   link: https://doi.org/gtmsc4
   plugin: sources.py
   file: sources.yaml
-- id: 10.18653/v1/2023.americasnlp-1.23
+- id: doi:10.18653/v1/2023.americasnlp-1.23
   title: Findings of the AmericasNLP 2023 Shared Task on Machine Translation into
     Indigenous Languages
   authors:
@@ -51,7 +51,7 @@
   link: https://doi.org/gtmsc5
   plugin: sources.py
   file: sources.yaml
-- id: https://aclanthology.org/2023.sigmorphon-1.9
+- id: doi:10.18653/v1/2023.sigmorphon-1.9
   title: 'Lightweight morpheme labeling in context: Using structured linguistic representations
     to support linguistic analysis for the language documentation context'
   authors:
@@ -59,11 +59,11 @@
   - Alexis Palmer
   publisher: Proceedings of the 20th SIGMORPHON workshop on Computational Research
     in Phonetics, Phonology, and Morphology
-  date: '2023-07-01'
-  link: https://aclanthology.org/2023.sigmorphon-1.9
+  date: '2023-01-01'
+  link: https://doi.org/gtmsdg
   plugin: sources.py
   file: sources.yaml
-- id: 10.18653/v1/2023.eacl-demo.24
+- id: doi:10.18653/v1/2023.eacl-demo.24
   title: 'OLEA: Tool and Infrastructure for Offensive Language Error Analysis in English'
   authors:
   - Marie Grace
@@ -74,5 +74,51 @@
     for Computational Linguistics: System Demonstrations'
   date: '2023-01-01'
   link: https://doi.org/gtmsc6
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://aclanthology.org/2023.dmr-1.10
+  title: UMR Annotation of Multiword Expressions
+  authors:
+  - Julia Bonn
+  - Andrew Cowell
+  - "Jan Haji\u010D"
+  - Alexis Palmer
+  - Martha Palmer
+  - James Pustejovsky
+  - Haibo Sun
+  - Zdenka Uresova
+  - Shira Wein
+  - Nianwen Xue
+  - Jin Zhao
+  publisher: Proceedings of the Fourth International Workshop on Designing Meaning
+    Representations
+  date: '2023-06-01'
+  link: https://aclanthology.org/2023.dmr-1.10
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://aclanthology.org/2023.tlt-1.8
+  title: 'Mapping AMR to UMR: Resources for Adapting Existing Corpora for Cross-Lingual
+    Compatibility'
+  authors:
+  - Julia Bonn
+  - Skatje Myers
+  - Jens E. L. Van Gysel
+  - Lukas Denk
+  - Meagan Vigus
+  - Jin Zhao
+  - Andrew Cowell
+  - William Croft
+  - "Jan Haji\u010D"
+  - James H. Martin
+  - Alexis Palmer
+  - Martha Palmer
+  - James Pustejovsky
+  - "Zdenka Ure\u0161ov\xE1"
+  - Rosa Vallejos
+  - Nianwen Xue
+  publisher: Proceedings of the 21st International Workshop on Treebanks and Linguistic
+    Theories (TLT, GURT/SyntaxFest 2023)
+  date: '2023-03-01'
+  link: https://aclanthology.org/2023.tlt-1.8
   plugin: sources.py
   file: sources.yaml
