@@ -1,6 +1,6 @@
 ---
 name: Michael Ginn
-image: images/photo.jpg
+image: images/michael-ginn.png
 role: phd
 links:
   home-page: https://michaelginn.com
