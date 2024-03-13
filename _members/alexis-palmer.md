@@ -1,6 +1,6 @@
 ---
 name: Alexis Palmer
-image: images/photo.jpg
+image: images/alexis-palmer.png
 role: pi
 links:
   home-page: https://alexispalmer.github.io
