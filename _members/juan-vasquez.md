@@ -1,5 +1,5 @@
 ---
-name: 
+name: Juan Vásquez
 image: images/photo.jpg
 role: phd
 links:
