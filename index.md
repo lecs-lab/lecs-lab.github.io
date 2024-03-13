@@ -7,6 +7,10 @@ We are the **L**ow-Resource and **E**ndangered **C**omputational Linguistic**S**
 
 {% include section.html %}
 
+{%
+  image="images/group_photo.jpg"
+%}
+
 ## Highlights
 
 {% capture text %}
@@ -74,7 +78,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/group_photo.jpg"
+  image="images/photo.jpg"
   link="team"
   title="Our Team"
   text=text
