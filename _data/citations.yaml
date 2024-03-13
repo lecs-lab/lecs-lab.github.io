@@ -122,3 +122,27 @@
   link: https://aclanthology.org/2023.tlt-1.8
   plugin: sources.py
   file: sources.yaml
+- id: url:https://scholar.law.colorado.edu/faculty-articles/1601
+  title: Visions for the International Decade of Indigenous Languages 2022-2032
+  authors:
+  - Kristen Carpenter
+  - Andrew Cowell
+  - Alexis Palmer
+  publisher: Colorado Environmental Law Journal
+  date: '2023-01-01'
+  link: https://scholar.law.colorado.edu/faculty-articles/1601
+  plugin: sources.py
+  file: sources.yaml
+- id: url:https://aclanthology.org/2022.fieldmatters-1.3
+  title: Machine Translation Between High-resource Languages in a Language Documentation
+    Setting
+  authors:
+  - Katharina Kann
+  - Abteen Ebrahimi
+  - Kristine Stenzel
+  - Alexis Palmer
+  publisher: Proceedings of the first workshop on NLP applications to field linguistics
+  date: '2022-10-01'
+  link: https://aclanthology.org/2022.fieldmatters-1.3
+  plugin: sources.py
+  file: sources.yaml
