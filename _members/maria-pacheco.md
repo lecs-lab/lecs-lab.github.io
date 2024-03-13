@@ -1,6 +1,6 @@
 ---
 name: Maria Leonor Pacheco
-image: images/alexis-palmer.png
+image: images/maria-pacheco.png
 role: pi
 links:
   home-page: https://mlpacheco.github.io
