@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: LECS Lab
-subtitle: Low-Resource and Endangered Computational Linguistics
-description: Linguistics and Computer Science Department at the University of Colorado, Boulder
+subtitle: University of Colorado Departments of Linguistics and Computer Science
+description: We are the Low-Resource and Endangered Computational LinguisticS Lab, led by Prof. Alexis Palmer. We study NLP for low-resource, endangered, and Indigenous languages, linguistically-inspired NLP, and computational approaches to morphology, syntax, and semantics.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
