@@ -1,6 +1,6 @@
 ---
 name: Claire Benet Post
-image: images/photo.jpg
+image: images/benet.jpg
 role: phd
 links:
   home-page: https://clairepost.github.io
