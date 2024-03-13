@@ -1,9 +1,9 @@
 ---
 ---
 
-# Low-Resource and Endangered Computational LinguisticS
+# Welcome to LECS!
 
-We are a research group led by Prof. Alexis Palmer, with members from the University of Colorado Departments of Linguistics and Computer Science. We study NLP for low-resource, endangered, and Indigenous languages, linguistically-inspired NLP, and computational approaches to morphology, syntax, and semantics.
+We are the Low-Resource and Endangered Computational LinguisticS group at the University of Colorado, led by Prof. Alexis Palmer, with members from the departments of Linguistics and Computer Science. We study NLP for low-resource, endangered, and Indigenous languages, linguistically-inspired NLP, and computational approaches to morphology, syntax, and semantics.
 
 {% include section.html %}
 
