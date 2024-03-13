@@ -9,7 +9,7 @@ We are the **L**ow-Resource and **E**ndangered Languages and **C**omputational *
 
 {%
   include figure.html
-  image="images/group-photo.jpg"
+  image="images/group_photo.jpg"
   caption="LECS Lab and friends!"
   link="team"
   width="400px"
