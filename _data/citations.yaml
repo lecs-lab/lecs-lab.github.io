@@ -8,7 +8,7 @@
   - Alexis Palmer
   publisher: Proceedings of the 1st GenBench Workshop on (Benchmarking) Generalisation
     in NLP
-  date: '2023-01-01'
+  date: ''
   link: https://doi.org/gtmsc3
   plugin: sources.py
   file: sources.yaml
@@ -24,7 +24,7 @@
   - Miikka Silfverberg
   publisher: Proceedings of the 20th SIGMORPHON workshop on Computational Research
     in Phonetics, Phonology, and Morphology
-  date: '2023-01-01'
+  date: ''
   link: https://doi.org/gtmsc4
   plugin: sources.py
   file: sources.yaml
@@ -47,7 +47,7 @@
   - Katharina Kann
   publisher: Proceedings of the Workshop on Natural Language Processing for Indigenous
     Languages of the Americas (AmericasNLP)
-  date: '2023-01-01'
+  date: ''
   link: https://doi.org/gtmsc5
   plugin: sources.py
   file: sources.yaml
@@ -59,7 +59,7 @@
   - Alexis Palmer
   publisher: Proceedings of the 20th SIGMORPHON workshop on Computational Research
     in Phonetics, Phonology, and Morphology
-  date: '2023-01-01'
+  date: ''
   link: https://doi.org/gtmsdg
   plugin: sources.py
   file: sources.yaml
@@ -72,7 +72,7 @@
   - Alexis Palmer
   publisher: 'Proceedings of the 17th Conference of the European Chapter of the Association
     for Computational Linguistics: System Demonstrations'
-  date: '2023-01-01'
+  date: ''
   link: https://doi.org/gtmsc6
   plugin: sources.py
   file: sources.yaml
@@ -92,7 +92,7 @@
   - Jin Zhao
   publisher: Proceedings of the Fourth International Workshop on Designing Meaning
     Representations
-  date: '2023-06-01'
+  date: ''
   link: https://aclanthology.org/2023.dmr-1.10
   plugin: sources.py
   file: sources.yaml
@@ -118,7 +118,7 @@
   - Nianwen Xue
   publisher: Proceedings of the 21st International Workshop on Treebanks and Linguistic
     Theories (TLT, GURT/SyntaxFest 2023)
-  date: '2023-03-01'
+  date: ''
   link: https://aclanthology.org/2023.tlt-1.8
   plugin: sources.py
   file: sources.yaml
@@ -129,7 +129,7 @@
   - Andrew Cowell
   - Alexis Palmer
   publisher: Colorado Environmental Law Journal
-  date: '2023-01-01'
+  date: ''
   link: https://scholar.law.colorado.edu/faculty-articles/1601
   plugin: sources.py
   file: sources.yaml
@@ -142,7 +142,7 @@
   - Kristine Stenzel
   - Alexis Palmer
   publisher: Proceedings of the first workshop on NLP applications to field linguistics
-  date: '2022-10-01'
+  date: ''
   link: https://aclanthology.org/2022.fieldmatters-1.3
   plugin: sources.py
   file: sources.yaml
