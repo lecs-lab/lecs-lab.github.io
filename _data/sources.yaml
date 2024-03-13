@@ -1,5 +1,7 @@
-- id: 10.18653/v1/2023.genbench-1.7
-- id: 10.18653/v1/2023.sigmorphon-1.20
-- id: 10.18653/v1/2023.americasnlp-1.23
-- id: https://aclanthology.org/2023.sigmorphon-1.9
-- id: 10.18653/v1/2023.eacl-demo.24
+- id: doi:10.18653/v1/2023.genbench-1.7
+- id: doi:10.18653/v1/2023.sigmorphon-1.20
+- id: doi:10.18653/v1/2023.americasnlp-1.23
+- id: doi:10.18653/v1/2023.sigmorphon-1.9
+- id: doi:10.18653/v1/2023.eacl-demo.24
+- id: url:https://aclanthology.org/2023.dmr-1.10
+- id: url:https://aclanthology.org/2023.tlt-1.8
