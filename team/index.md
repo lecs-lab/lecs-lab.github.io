@@ -18,5 +18,3 @@ nav:
 ## Masters Students
 {% include list.html data="members" component="portrait" filters="role: masters" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
