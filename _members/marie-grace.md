@@ -1,12 +1,12 @@
 ---
 name: Marie McGregor
-image: images/photo.jpg
+image: images/marie.jpg
 role: phd
 links:
-  home-page: 
-  email: 
-  github: 
+  home-page:
+  email: magr3756@colorado.edu
+  github: mgrace31
   orcid: 0009-0004-9750-4893
-  google-scholar: gEv-2YAAAAJ
+  google-scholar: vaZD4rsAAAAJ
 ---
 
