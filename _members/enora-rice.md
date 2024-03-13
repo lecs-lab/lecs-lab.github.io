@@ -1,12 +1,12 @@
 ---
 name: Enora Rice
-image: images/photo.jpg
+image: images/enora.png
 role: phd
 links:
   home-page: 
-  email: 
-  github: 
+  email: enora.rice@colorado.edu
+  github: covetedfish
   orcid: 
-  google-scholar: 
+  google-scholar: 0LZi52QAAAAJ
 ---
 
