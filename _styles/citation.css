@@ -46,6 +46,10 @@
   width: 100%;
 }
 
+.citation-details {
+  color: var(--gray);
+}
+
 .citation-title {
   font-weight: var(--semi-bold);
 }
