@@ -6,6 +6,18 @@
   date: "2024-05-01"
 - id: url:https://aclanthology.org/2024.computel-1.0
   date: "2024-03-01"
+  type: paper
+  authors:
+    - Sarah Moeller
+    - Godfred Agyapong
+    - Antti Arppe
+    - Aditi Chaudhary
+    - Shruti Rijhwani
+    - Christopher Cox
+    - Ryan Henke
+    - Alexis Palmer
+    - Daisy Rosenblum
+    - Lane Schwartz
 - id: doi:10.18653/v1/2023.genbench-1.7
   date: "2023-12-01"
 - id: doi:10.18653/v1/2023.sigmorphon-1.20
