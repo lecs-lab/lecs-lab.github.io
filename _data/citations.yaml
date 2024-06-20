@@ -63,10 +63,21 @@
 - id: url:https://aclanthology.org/2024.computel-1.0
   title: Proceedings of the Seventh Workshop on the Use of Computational Methods in
     the Study of Endangered Languages
-  authors: []
+  authors:
+  - Sarah Moeller
+  - Godfred Agyapong
+  - Antti Arppe
+  - Aditi Chaudhary
+  - Shruti Rijhwani
+  - Christopher Cox
+  - Ryan Henke
+  - Alexis Palmer
+  - Daisy Rosenblum
+  - Lane Schwartz
   publisher: Association for Computational Linguistics
   date: '2024-03-01'
   link: https://aclanthology.org/2024.computel-1.0
+  type: paper
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.18653/v1/2023.genbench-1.7
