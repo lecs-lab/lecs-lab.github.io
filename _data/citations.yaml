@@ -10,7 +10,7 @@
   - Alexis Palmer
   publisher: Proceedings of the Fifth International Workshop on Designing Meaning
     Representations @ LREC-COLING 2024
-  date: ''
+  date: '2024-05-01'
   link: https://aclanthology.org/2024.dmr-1.15
   plugin: sources.py
   file: sources.yaml
@@ -24,7 +24,7 @@
   - Alexis Palmer
   publisher: Proceedings of the 2024 Joint International Conference on Computational
     Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
-  date: ''
+  date: '2024-05-01'
   link: https://aclanthology.org/2024.lrec-main.220
   plugin: sources.py
   file: sources.yaml
@@ -56,7 +56,7 @@
   - Jin Zhao
   publisher: Proceedings of the 2024 Joint International Conference on Computational
     Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
-  date: ''
+  date: '2024-05-01'
   link: https://aclanthology.org/2024.lrec-main.229
   plugin: sources.py
   file: sources.yaml
@@ -65,7 +65,7 @@
     the Study of Endangered Languages
   authors: []
   publisher: Association for Computational Linguistics
-  date: ''
+  date: '2024-03-01'
   link: https://aclanthology.org/2024.computel-1.0
   plugin: sources.py
   file: sources.yaml
