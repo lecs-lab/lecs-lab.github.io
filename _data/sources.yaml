@@ -1,3 +1,11 @@
+- id: url:https://aclanthology.org/2024.dmr-1.15
+  date: 2024-05-01
+- id: url:https://aclanthology.org/2024.lrec-main.220
+  date: 2024-05-01
+- id: url:https://aclanthology.org/2024.lrec-main.229
+  date: 2024-05-01
+- id: url:https://aclanthology.org/2024.computel-1.0
+  date: 2024-03-01
 - id: doi:10.18653/v1/2023.genbench-1.7
   date: "2023-12-01"
 - id: doi:10.18653/v1/2023.sigmorphon-1.20
