@@ -4,8 +4,8 @@
 
 .citation {
   display: flex;
-  margin: 20px 0;
-  border-radius: var(--rounded);
+  margin: 10px 0;
+  border-radius: 16px;
   background: var(--background);
   overflow: hidden;
   box-shadow: var(--shadow);
@@ -52,6 +52,8 @@
 
 .citation-title {
   font-weight: var(--semi-bold);
+  font-size: larger;
+  text-decoration: none;
 }
 
 .citation-text > .icon {

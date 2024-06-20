@@ -17,4 +17,8 @@
   z-index: -1;
 }
 
+.background#publications {
+  background: var(--background-alt);
+}
+
 /*# sourceMappingURL=background.css.map */
