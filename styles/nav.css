@@ -20,10 +20,17 @@
 }
 .navbar-item {
     text-decoration: none;
-    color: #333;
+    color: #888;
+}
+.navbar-item:hover {
+    color: #666;
 }
 .navbar-item.active {
     font-weight: 500;
+    color: #333;
+}
+.navbar-item.active:hover {
+    color: #555;
 }
 
 #logo {
