@@ -1,0 +1,19 @@
+.publications {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.publication a {
+    font-weight: 600;
+    /* font-size: large; */
+}
+
+.publication div {
+    margin-top: 4px;
+}
+
+.publication .publication-venue {
+    font-style: italic;
+    color: #999
+}
