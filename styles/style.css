@@ -1,5 +1,4 @@
 @import url("nav.css");
-@import url("pubs.css");
 
 html {
     font-family: "Helvetica Neue", Helvetica, sans-serif;
@@ -10,6 +9,7 @@ html {
   --primary: #299D8F;
   --secondary: #7dd3fc;
   --border-radius: 8px;
+  --light-bg: rgb(237, 242, 242);
 }
 
 a {
@@ -58,7 +58,7 @@ footer {
     gap: 12px;
 }
 .news-item {
-    background-color: rgb(237, 242, 242);
+    background-color: var(--light-bg);
     padding-inline: 20px;
     padding-block: 12px;
     border-radius: var(--border-radius);
