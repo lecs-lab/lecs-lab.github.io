@@ -11,9 +11,15 @@
 
 .publication div {
     margin-top: 4px;
+    font-size: small;
 }
 
 .publication .publication-venue {
     font-style: italic;
-    color: #999
+    color: #999;
+    font-size: small;
+}
+
+.publication .publication-venue .publication-date {
+    font-style: normal;
 }
