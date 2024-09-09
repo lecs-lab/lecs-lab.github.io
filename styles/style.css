@@ -14,8 +14,8 @@
   :root {
     --text: #fff;
     --bg: #000;
-    --light-bg: rgb(18, 13, 13);
-    --slightly-darker-light-bg: rgb(30, 25, 25);
+    --light-bg: rgb(20, 25, 25);
+    --slightly-darker-light-bg: rgb(25, 30, 30);
   }
 }
 
