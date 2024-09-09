@@ -5,6 +5,7 @@
   --secondary: #7dd3fc;
   --border-radius: 8px;
   --light-bg: rgb(237, 242, 242);
+  --slightly-darker-light-bg: rgb(225, 230, 230);
   --text: #000;
   --bg: #fff;
 }
@@ -14,6 +15,7 @@
     --text: #fff;
     --bg: #000;
     --light-bg: rgb(18, 13, 13);
+    --slightly-darker-light-bg: rgb(30, 25, 25);
   }
 }
 
