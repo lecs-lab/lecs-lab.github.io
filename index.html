@@ -1,71 +1,174 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>LECS Lab - Home</title>
-    <link rel="icon" type="image/x-icon" href="/assets/icon.png">
-    <!-- <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"> -->
-    <link href="styles/style.css" rel="stylesheet" type="text/css">
-  </head>
-  <body>
-    <nav class="navbar container">
-        <div class="navbar-title">
-            <img src="assets/logo.png" id="logo">
-            <!-- <div id="navbar-title-text">LECS Lab</div> -->
-        </div>
-        <div class="navbar-items">
-            <a href="index.html" class="navbar-item active">Home</a>
-            <a href="publications.html" class="navbar-item">Publications</a>
-            <a href="people.html" class="navbar-item">People</a>
-            <a href="joining.html" class="navbar-item">Join Us</a>
-        </div>
-    </nav>
-    <main class="container">
-        <h1>Welcome to LECS!</h1>
-        <img id="group-photo" src="assets/group_photo.jpg" alt="A group photo of some LECS members.">
-        <p>We are the <b>Low-Resource</b> and <b>Endangered Languages</b> and <b>Computational Semantics</b> group at the University of Colorado led by Prof. Alexis Palmer. We are based jointly in the CU <a href="">Department of Linguistics</a> and <a href="https://www.colorado.edu/cs/">Department of Computer Science</a>.
-
-        <h2>Research Interests</h2>
-        <p>We study NLP for low-resource, endangered, and Indigenous languages, linguistically-inspired NLP, and computational approaches to morphology, syntax, and semantics. We are curious about research questions such as the following:</p>
-
-        <ul>
-            <li>How can traditional <b>linguistic theory</b> contribute to NLP methods?</li>
-            <li>Conversely, how can we interpret and evaluate state-of-the-art NLP techniques with a <b>linguistic framing</b>?</li>
-            <li>How can NLP methods support the <b>documentation</b> and <b>preservation</b> of endangered languages?</li>
-            <li>What are the best approaches for enabling language technology for low-resource (and often Indigenous) languages?</li>
-        </ul>
-
-        Our research naturally involves pervasive usage of <b>machine learning</b> techniques, particularly small and large language models. We encourage an interdisciplinary approach, with members from computer science and linguistics backgrounds.
-
-        <h2>Ongoing Projects</h2>
-        Currently, our members are working on a variety of research projects in areas such as:
-
-        <ul>
-            <li>Automatic generation of <b>interlinear glossed text (IGT)</b> with finetuned neural models and large language models (LLMs). See <a href="https://aclanthology.org/2023.sigmorphon-1.20/">Ginn et al. (2023)</a>, <a href="https://aclanthology.org/2023.sigmorphon-1.9/">Shandilya and Palmer (2023)</a>, and <a href="https://arxiv.org/abs/2403.06399">Ginn and Tijutja et al. (2024)</a> for representative work.</li>
-
-            <li><b>Uniform Meaning Representations (UMR)</b> for symbolic representations of semantics, and conversion with other forms such as Abstract Meaning Representations (AMR). See <a href="https://aclanthology.org/2023.tlt-1.8/">Bonn et al. (2023)</a>, <a href="https://aclanthology.org/2024.dmr-1.15/">Post et al. (2024)</a>, and <a href="https://aclanthology.org/2024.lrec-main.220/">Buchholz et al. (2024)</a>.</li>
-
-            <li><b>Educational resources</b> for low-resource language technology development, particularly for learners with minimal technical experience. See the <a href="belt.rc.colorado.edu">BELT website</a> and <a href="https://aclanthology.org/2024.teachingnlp-1.15/">Ginn et al. (2024)</a>.</li>
-
-            <li><b>Computational morphology</b>, the study of subword units of meaning (<i>morphemes</i>), which includes tasks such as segmentation and inflection. See <a href="https://aclanthology.org/2024.acl-long.366/">Rice et al. (2024)</a> and <a href="https://aclanthology.org/2024.sigmorphon-1.7/">Ginn and Palmer (2024)</a>.</li>
-
-        </ul>
-
-        <h2>Latest News</h2>
-        <div class="news">
-            <div class="news-item">
-                The <a href="https://aclanthology.org/2024.teachingnlp-1.15/">BELT paper</a> won Best Paper at the Teaching NLP workshop at <b>ACL 2024</b>!
-                <div class="news-item-date">August 2024</div>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>LECS Lab - Home</title>
+        <link rel="icon" type="image/x-icon" href="/assets/icon.png" />
+        <!-- <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"> -->
+        <link href="styles/style.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <nav class="navbar container">
+            <div class="navbar-title">
+                <img src="assets/logo.png" id="logo" />
+                <!-- <div id="navbar-title-text">LECS Lab</div> -->
             </div>
-            <div class="news-item">
-                <b>Enora</b> presented <a href="https://aclanthology.org/2024.acl-long.366/">TAMS: Translation-Assisted Morphological Segmentation</a> at <b>ACL 2024</b>!
-                <div class="news-item-date">August 2024</div>
+            <div class="navbar-items">
+                <a href="index.html" class="navbar-item active">Home</a>
+                <a href="publications.html" class="navbar-item">Publications</a>
+                <a href="people.html" class="navbar-item">People</a>
+                <a href="joining.html" class="navbar-item">Join Us</a>
             </div>
-        </div>
-    </main>
-    <footer class="container">
-        © LECS Lab 2024. Contact: <i>michael dot ginn at colorado dot edu</i>.
-    </footer>
-  </body>
+        </nav>
+        <main class="container">
+            <h1>Welcome to LECS!</h1>
+            <img
+                id="group-photo"
+                src="assets/group_photo.jpg"
+                alt="A group photo of some LECS members."
+            />
+            <p>
+                We are the <b>Low-Resource</b> and
+                <b>Endangered Languages</b> and
+                <b>Computational Semantics</b> group at the University of
+                Colorado led by Prof. Alexis Palmer. We are based jointly in the
+                CU <a href="">Department of Linguistics</a> and
+                <a href="https://www.colorado.edu/cs/"
+                    >Department of Computer Science</a
+                >.
+            </p>
+
+            <h2>Research Interests</h2>
+            <p>
+                We study NLP for low-resource, endangered, and Indigenous
+                languages, linguistically-inspired NLP, and computational
+                approaches to morphology, syntax, and semantics. We are curious
+                about research questions such as the following:
+            </p>
+
+            <ul>
+                <li>
+                    How can traditional <b>linguistic theory</b> contribute to
+                    NLP methods?
+                </li>
+                <li>
+                    Conversely, how can we interpret and evaluate
+                    state-of-the-art NLP techniques with a
+                    <b>linguistic framing</b>?
+                </li>
+                <li>
+                    How can NLP methods support the <b>documentation</b> and
+                    <b>preservation</b> of endangered languages?
+                </li>
+                <li>
+                    What are the best approaches for enabling language
+                    technology for low-resource (and often Indigenous)
+                    languages?
+                </li>
+            </ul>
+
+            Our research naturally involves pervasive usage of
+            <b>machine learning</b> techniques, particularly small and large
+            language models. We encourage an interdisciplinary approach, with
+            members from computer science and linguistics backgrounds.
+
+            <h2>Ongoing Projects</h2>
+            Currently, our members are working on a variety of research projects
+            in areas such as:
+
+            <ul>
+                <li>
+                    Automatic generation of
+                    <b>interlinear glossed text (IGT)</b> with finetuned neural
+                    models and large language models (LLMs). See
+                    <a href="https://aclanthology.org/2023.sigmorphon-1.20/"
+                        >Ginn et al. (2023)</a
+                    >,
+                    <a href="https://aclanthology.org/2023.sigmorphon-1.9/"
+                        >Shandilya and Palmer (2023)</a
+                    >, and
+                    <a href="https://arxiv.org/abs/2403.06399"
+                        >Ginn and Tijutja et al. (2024)</a
+                    >
+                    for representative work.
+                </li>
+
+                <li>
+                    <b>Uniform Meaning Representations (UMR)</b> for symbolic
+                    representations of semantics, and conversion with other
+                    forms such as Abstract Meaning Representations (AMR). See
+                    <a href="https://aclanthology.org/2023.tlt-1.8/"
+                        >Bonn et al. (2023)</a
+                    >,
+                    <a href="https://aclanthology.org/2024.dmr-1.15/"
+                        >Post et al. (2024)</a
+                    >, and
+                    <a href="https://aclanthology.org/2024.lrec-main.220/"
+                        >Buchholz et al. (2024)</a
+                    >.
+                </li>
+
+                <li>
+                    <b>Educational resources</b> for low-resource language
+                    technology development, particularly for learners with
+                    minimal technical experience. See the
+                    <a href="belt.rc.colorado.edu">BELT website</a> and
+                    <a href="https://aclanthology.org/2024.teachingnlp-1.15/"
+                        >Ginn et al. (2024)</a
+                    >.
+                </li>
+
+                <li>
+                    <b>Computational morphology</b>, the study of subword units
+                    of meaning (<i>morphemes</i>), which includes tasks such as
+                    segmentation and inflection. See
+                    <a href="https://aclanthology.org/2024.acl-long.366/"
+                        >Rice et al. (2024)</a
+                    >
+                    and
+                    <a href="https://aclanthology.org/2024.sigmorphon-1.7/"
+                        >Ginn and Palmer (2024)</a
+                    >.
+                </li>
+            </ul>
+
+            <h2>Latest News</h2>
+            <div class="news">
+                <div class="news-item">
+                    The
+                    <a href="https://aclanthology.org/2024.teachingnlp-1.15/"
+                        >BELT paper</a
+                    >
+                    won Best Paper at the Teaching NLP workshop at
+                    <b>ACL 2024</b>!
+                    <div class="news-item-date">August 2024</div>
+                </div>
+                <div class="news-item">
+                    <b>Enora</b> presented
+                    <a href="https://aclanthology.org/2024.acl-long.366/"
+                        >TAMS: Translation-Assisted Morphological
+                        Segmentation</a
+                    >
+                    at <b>ACL 2024</b>!
+                    <div class="news-item-date">August 2024</div>
+                </div>
+
+                <a
+                    class="twitter-timeline"
+                    href="https://twitter.com/lecslab?ref_src=twsrc%5Etfw"
+                    >Tweets by lecslab</a
+                >
+                <script
+                    async
+                    src="https://platform.twitter.com/widgets.js"
+                    charset="utf-8"
+                ></script>
+            </div>
+        </main>
+        <footer class="container">
+            © LECS Lab 2024. Contact:
+            <i>michael dot ginn at colorado dot edu</i>.
+        </footer>
+    </body>
 </html>
