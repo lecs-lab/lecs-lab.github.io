@@ -1,3 +1,76 @@
+- id: rice-etal-2025-interdisciplinary
+  title: "Interdisciplinary Research in Conversation: A Case Study in Computational Morphology for Language Documentation"
+  authors:
+    - Enora Rice
+    - Katharina von der Wense
+    - Alexis Palmer
+  publisher: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
+  date: "2025-11-01"
+  link: https://aclanthology.org/2025.emnlp-main.568/
+
+- id: ginn-palmer-2025-llm
+  title: "LLM Dependency Parsing with In-Context Rules"
+  authors:
+    - Michael Ginn
+    - Alexis Palmer
+  publisher: "Proceedings of the 1st Joint Workshop on Large Language Models and Structure Modeling (XLLM 2025)"
+  date: "2025-08-01"
+  link: https://aclanthology.org/2025.xllm-1.17/
+
+- id: groshan-etal-2025-linguistically
+  title: "Is linguistically-motivated data augmentation worth it?"
+  authors:
+    - Ray Groshan
+    - Michael Ginn
+    - Alexis Palmer
+  publisher: "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
+  date: "2025-07-01"
+  link: https://aclanthology.org/2025.acl-long.1307/
+
+- id: rice-etal-2025-untangling
+  title: "Untangling the Influence of Typology, Data, and Model Architecture on Ranking Transfer Languages for Cross-Lingual POS Tagging"
+  authors:
+    - Enora Rice
+    - Ali Marashian
+    - Hannah Haynie
+    - Katharina von der Wense
+    - Alexis Palmer
+  publisher: "Proceedings of the 1st Workshop on Language Models for Underserved Communities (LM4UC 2025)"
+  date: "2025-05-01"
+  link: https://aclanthology.org/2025.lm4uc-1.4/
+
+- id: leto-etal-2025-dehumanization
+  title: "Dehumanization of LGBTQ+ Groups in Sexual Interactions with ChatGPT"
+  authors:
+    - Alexandria Leto
+    - Juan Vásquez
+    - Alexis Palmer
+    - Maria Leonor Pacheco
+  publisher: "Proceedings of the Queer in AI Workshop"
+  date: "2025-05-01"
+  link: https://aclanthology.org/2025.queerinai-main.3/
+
+- id: shandilya-palmer-2025-boosting
+  title: "Boosting the Capabilities of Compact Models in Low-Data Contexts with Large Language Models and Retrieval-Augmented Generation"
+  authors:
+    - Bhargav Shandilya
+    - Alexis Palmer
+  publisher: "Proceedings of the 31st International Conference on Computational Linguistics"
+  date: "2025-01-01"
+  link: https://aclanthology.org/2025.coling-main.499/
+
+- id: marashian-etal-2025-priest
+  title: "From Priest to Doctor: Domain Adaptation for Low-Resource Neural Machine Translation"
+  authors:
+    - Ali Marashian
+    - Enora Rice
+    - Luke Gessler
+    - Alexis Palmer
+    - Katharina von der Wense
+  publisher: "Proceedings of the 31st International Conference on Computational Linguistics"
+  date: "2025-01-01"
+  link: https://aclanthology.org/2025.acl-long.1307/
+
 - id: arxiv:2403.06399
   title: "GlossLM: A Massively Multilingual Corpus and Pretrained Model for Interlinear Glossed Text"
   authors:
