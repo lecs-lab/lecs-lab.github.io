@@ -22,6 +22,10 @@ lecs_member_names = [
     "Marie Grace",
     "Jay Seabrum",
     "Ray Groshan",
+    "Paul Bontempo",
+    "Sumeyye Nabieva",
+    "Claire Benét Post",
+    "Saksham Khatwani",
 ]
 
 

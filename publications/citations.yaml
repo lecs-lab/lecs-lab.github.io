@@ -1,3 +1,56 @@
+- id: arxiv:2603.24797
+  title: "Enhancing Structured Meaning Representations with Aspect Classification"
+  authors:
+    - Claire Benét Post
+    - Paul Bontempo
+    - August Milliken
+    - Alvin Po-Chun Chen
+    - Nicholas Derby
+    - Saksham Khatwani
+    - Sumeyye Nabieva
+    - Karthik Sairam
+    - Alexis Palmer
+  publisher: "arXiv preprint"
+  date: "2026-03-25"
+  link: https://arxiv.org/abs/2603.24797
+
+- id: arxiv:2603.18184
+  title: "CWoMP: Morpheme Representation Learning for Interlinear Glossing"
+  authors:
+    - Morris Alper
+    - Enora Rice
+    - Bhargav Shandilya
+    - Alexis Palmer
+    - Lori Levin
+  publisher: "arXiv preprint"
+  date: "2026-03-18"
+  link: https://arxiv.org/abs/2603.18184
+
+- id: arxiv:2601.10925
+  title: "Massively Multilingual Joint Segmentation and Glossing"
+  authors:
+    - Michael Ginn
+    - Lindia Tjuatja
+    - Enora Rice
+    - Ali Marashian
+    - Maria Valentini
+    - Jasmine Xu
+    - Graham Neubig
+    - Alexis Palmer
+  publisher: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)"
+  date: "2026-01-16"
+  link: https://arxiv.org/abs/2601.10925
+
+- id: arxiv:2601.10918
+  title: "Neural Induction of Finite-State Transducers"
+  authors:
+    - Michael Ginn
+    - Alexis Palmer
+    - Mans Hulden
+  publisher: "Findings of the Association for Computational Linguistics: ACL 2026"
+  date: "2026-01-16"
+  link: https://arxiv.org/abs/2601.10918
+
 - id: rice-etal-2025-interdisciplinary
   title: "Interdisciplinary Research in Conversation: A Case Study in Computational Morphology for Language Documentation"
   authors:
