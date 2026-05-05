@@ -1,22 +1,22 @@
 @import url("nav.css");
 
 :root {
-  --primary: #299D8F;
-  --secondary: #7dd3fc;
-  --border-radius: 8px;
-  --light-bg: rgb(237, 242, 242);
-  --slightly-darker-light-bg: rgb(225, 230, 230);
-  --text: #000;
-  --bg: #fff;
+    --primary: #299d8f;
+    --secondary: #7dd3fc;
+    --border-radius: 8px;
+    --light-bg: rgb(237, 242, 242);
+    --slightly-darker-light-bg: rgb(225, 230, 230);
+    --text: #000;
+    --bg: #fff;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --text: #fff;
-    --bg: #000;
-    --light-bg: rgb(20, 25, 25);
-    --slightly-darker-light-bg: rgb(25, 30, 30);
-  }
+    :root {
+        --text: #fff;
+        --bg: #000;
+        --light-bg: rgb(20, 25, 25);
+        --slightly-darker-light-bg: rgb(25, 30, 30);
+    }
 }
 
 html {
@@ -25,8 +25,6 @@ html {
     background-color: var(--bg);
     color: var(--text);
 }
-
-
 
 a {
     color: var(--primary);
@@ -46,10 +44,14 @@ li {
     line-height: 1.4em;
 }
 
+li + li {
+    margin-top: 10px;
+}
+
 footer {
     margin-block-start: 100px;
     padding-block: 20px;
-    color: #AAA;
+    color: #aaa;
 }
 
 .container {
